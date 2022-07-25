@@ -137,7 +137,7 @@ export default function BasicModal() {
             <Select
               labelId="demo-simple-select-label"
               id="demo-simple-select"
-              value={add}
+              
               label="Team Leader Name"
               onChange={handleChange}
             >
@@ -164,7 +164,7 @@ export default function BasicModal() {
             <Select
               labelId="demo-simple-select-label"
               id="demo-simple-select"
-              value={add}
+              
               label="Region"
               onChange={handleChange}
             >
@@ -187,7 +187,7 @@ export default function BasicModal() {
             <Select
               labelId="demo-simple-select-label"
               id="demo-simple-select"
-              value={add}
+              
               label="City"
               onChange={handleChange}
             >
